@@ -1,10 +1,14 @@
 - 👋 Hi, I’m @xKaaay
+
 - 👀 I’m interested in ...
-- Everything
+- Just learning
+
 - 🌱 I’m currently learning ...
 - Python
+
 - 💞️ I’m looking to collaborate on ...
 - Nothing for now
+
 - 📫 How to reach me ...
 - https://linktr.ee/xkaaay
 <!---
