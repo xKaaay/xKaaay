@@ -4,7 +4,7 @@
 - Just learning
 - 
 - 🌱 I’m currently learning ...
-- Python
+- Python, Django
 - 
 - 💞️ I’m looking to collaborate on ...
 - Nothing for now
